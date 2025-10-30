@@ -12,4 +12,14 @@ public class CustomListTest {
 
         assertTrue(list.hasCity(cgy));
     }
+
+    @Test
+    public void testDeleteCity() {
+
+    }
+
+    @Test
+    public void testCountCities() {
+
+    }
 }
